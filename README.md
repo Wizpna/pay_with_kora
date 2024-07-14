@@ -1,16 +1,18 @@
 # pay_with_kora
 
-A new Flutter project.
+A straightforward project demonstrating how to integrate the KoraPay Flutter package into your Flutter app for seamless payment processing.
 
-## Getting Started
+<h4>If you find this repo helpful to you, please don't forget to star ⭐ the repo 😉, it's FREE. </h4>
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img alt="" src="https://raw.githubusercontent.com/Wizpna/korapay/master/images/IMG_2921.PNG" width= 300/> <img alt="" src="https://raw.githubusercontent.com/Wizpna/korapay/master/images/IMG_2922.PNG" width= 300/>
+<img alt="" src="https://raw.githubusercontent.com/Wizpna/korapay/master/images/IMG_2923.PNG" width= 300/> <img alt="" src="https://raw.githubusercontent.com/Wizpna/korapay/master/images/IMG_2924.PNG" width= 300/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contact - Let's become friends
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://www.linkedin.com/in/promise-amadi-101759a1/">Linkedin</a></br>
+<a href="https://twitter.com/Promise_Amadi1">Twitter</a></br>
+<a href="https://www.facebook.com/promise.nzubechi.amadi">Facebook</a>
+<a href="https://github.com/Wizpna">Github</a></br>
+
